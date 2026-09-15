@@ -1,0 +1,12 @@
+No,Information_Type,SP800_60_Taxonomy_Area,Confidentiality,Integrity,Availability
+1,Grant application and proposal content,Services for Citizens,Moderate,Moderate,Low
+2,Grantee organisation registration and eligibility records,Services for Citizens,Moderate,Moderate,Low
+3,Award and obligation records,Government Resource Management,Moderate,High,Moderate
+4,Disbursement and payment instruction records,Government Resource Management,Moderate,High,Moderate
+5,Peer reviewer identity and conflict of interest records,Support Delivery of Services,Moderate,Moderate,Low
+6,Merit review scores and panel deliberations,Services for Citizens,Moderate,Moderate,Low
+7,Grantee performance and monitoring reports,Services for Citizens,Low,Moderate,Low
+8,Audit and accountability records,Support Delivery of Services,Moderate,Moderate,Moderate
+9,Public funding opportunity announcements,Services for Citizens,Low,Moderate,Moderate
+10,System configuration and security documentation,Support Delivery of Services,Moderate,Moderate,Low
+11,Help desk and correspondence records containing PII,Support Delivery of Services,Moderate,Low,Low
