@@ -185,6 +185,7 @@ is built on.
 |---|---|
 | [keystone-kgms-iso27001](https://github.com/Nkee07/keystone-kgms-iso27001) | The same system under ISO/IEC 27001:2022 and ISO/IEC 27005, plus a crosswalk to this repository |
 | [keystone-kgms-conmon-vulnmgmt](https://github.com/Nkee07/keystone-kgms-conmon-vulnmgmt) | Continuous monitoring, vulnerability management and security control assessment in Tenable Nessus, ServiceNow and RSA Archer |
+| [keystone-kgms-security-plus](https://github.com/Nkee07/keystone-kgms-security-plus) | All five CompTIA Security+ SY0-701 domains applied to the same simulated system |
 
 ---
 
@@ -199,7 +200,7 @@ Practising areas: NIST Risk Management Framework, security control assessment, r
 assessment, POA&M management, continuous monitoring, and vulnerability management
 with Tenable Nessus, ServiceNow and RSA Archer.
 
-[GitHub](https://github.com/Nkee07) | [LinkedIn](https://www.linkedin.com/in/nkeiru-adesida-grc)
+[GitHub](https://github.com/Nkee07) | [LinkedIn](https://www.linkedin.com/in/nkeiru-adesida-grc) | [nkiru_sarah@yahoo.com](mailto:nkiru_sarah@yahoo.com)
 
 ---
 
